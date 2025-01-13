@@ -4,7 +4,7 @@ from gpt4all import GPT4All
 import asyncio
 
 # Тільки токен телеграм бота
-TELEGRAM_TOKEN = "7127319218:AAHrb4jSOFxxaVPtLE4Lf4QX_TtyD7IDleA"
+TELEGRAM_TOKEN = "Token"
 
 # Ініціалізація моделі GPT4All
 print("Завантаження моделі...")
